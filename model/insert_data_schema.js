@@ -29,7 +29,7 @@ const insertDataSchema = new mongoose.Schema(
             
         }
     },
-        {
+        {  
     timestamps: true
   }
     
