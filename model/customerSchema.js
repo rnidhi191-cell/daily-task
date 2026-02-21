@@ -6,7 +6,7 @@ type:mongoose.Schema.Types.ObjectId,
 ref:"User"  ,  //reference to user collection
 required:true
         },
-        orderId: {
+        orderId: {   
             type: String,
             required: true
         },
